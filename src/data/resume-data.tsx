@@ -20,43 +20,43 @@ import { LinkedInIcon } from "../components/icons/LinkedInIcon";
 import { XIcon } from "../components/icons/XIcon";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Nimai Walsh",
+  initials: "NW",
+  location: "Brisbane, Australia",
+  locationLink: "https://www.google.com/maps/place/Brisbane+QLD",
   about:
-    "Full Stack Engineer focused on building products with extra attention to details",
+    "Android Mobile Engineer focused on building apps with extra attention to details",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+    "As an Android Mobile Engineer, I have worked on a number of enterprise products including scheduling and finance. I work with teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with Kotlin, Coroutines, and Compose. I have over 2 years of experience in working remotely.",
+  avatarUrl: "https://avatars.githubusercontent.com/u/19873002?v=4",
+  personalWebsiteUrl: "coming soon",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "nimai.walsh@gmail.com",
+    tel: "+61403676341",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/nimaiwalsh",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/nimaiwalsh",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://x.com/nimaiwalsh",
         icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Griffith University",
+      degree: "Bachelor's Degree in Multimedia",
+      start: "2005",
+      end: "2007",
     },
   ],
   work: [
